@@ -78,5 +78,4 @@ public final class SnakeFrame extends JFrame{
 	public char getDirection() {
 		return direction;
 	}
-
 }
